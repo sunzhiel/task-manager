@@ -1,4 +1,4 @@
-# Program name - Task Manager
+# Task Manager
 
 ## Description
 This program is a task management application designed for a small business. It is a more advanced version of the program referenced in the repository (task-manager-basic), being more modular and providing more sophisticated functionality such as the editing of tasks and better statistical breakdown of user and task data.
@@ -9,7 +9,8 @@ This Capstone Project was created during the Department for Education (DfE) spon
 
 It demonstrates the implementation of user defined functions, working with external data sources (files), and the use of control structures, such as while loops and conditional statements.
 
-## Usage
+## Instructions
 Download the python file (task_manager.py) along with the 2 text files (tasks.txt and user.txt). Ensure you save all 3 files to the same folder.
+
 Run the python file and follow the instructions on the terminal to navigate the menu.
 
